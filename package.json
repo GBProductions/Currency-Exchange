@@ -1,0 +1,16 @@
+{
+  "name": "week-6",
+  "version": "1.0.0",
+  "description": "#### _Program that will convert currencies._ _Sept. 11th 2020_",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
